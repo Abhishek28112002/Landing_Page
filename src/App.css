@@ -1,0 +1,106 @@
+*{
+  padding:0;
+  margin: 0;
+  top: 0px;
+  left: 0px;
+}
+.profile{
+  background-size: 42px 42px;
+  border: 0;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  display: block;
+  margin: 0px;
+  position: relative;
+  height: 52px;
+  width: 52px;
+  z-index: 0;
+}
+.img{
+  background-size: 42px 42px;
+  background-color: rgb(208, 30, 146);
+  border: 0;
+  text-align: center;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  display: block;
+  margin: 0px;
+  position: relative;
+  border-color: #fff;
+  border:3px solid white;
+ padding-top: 3px;
+  height: 52px;
+  width: 52px;
+  z-index: 0;
+}
+.logo{
+  background-size: 52px 52px;
+  border: 0;
+  display: block;
+  margin: 0px;
+  position: relative;
+  height: 62px;
+  width: 62px;
+  z-index: 0;
+}
+Nav.Link{
+  padding-left:50px;
+}
+.carsol{
+ margin:auto;
+  width:98%;
+ margin-top:10px;
+}
+
+.box{
+  margin:auto;
+  width:98%;
+  margin-top:10px;
+}
+.footer{
+  margin:auto;
+  width:98%;
+  margin-top:10px;
+}
+.round{
+  text-align:center;
+  margin: auto;
+  background-size: 42px 42px;
+  background-color: rgb(175, 167, 167);
+  border: 0;
+  text-align: center;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  display: block;
+  margin: 0px;
+  position: relative;
+  border-color: #fff;
+  border:3px solid white;
+ padding-top: 3px;
+  height: 52px;
+  width: 52px;
+  z-index: 0;
+}
+.square{
+  background-size: 42px 42px;
+  background-color: rgb(175, 167, 167);
+  border: 0;
+  text-align: center;
+  display: block;
+  margin: 0px;
+  position: relative;
+  border-color: #fff;
+  border:3px solid white;
+ padding-top: 3px;
+ width: fit-content;
+ align-self: left;
+  z-index: 0;
+}
+.main{
+  margin-left:20px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+.main:hover{
+  background-color:crimson;
+}
